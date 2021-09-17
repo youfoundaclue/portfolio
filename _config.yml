@@ -92,7 +92,7 @@ pagination:
 footer_text: 'Phantom (Jekyll theme) © 2018 Jami Gibbs.'
 admin_name: 'Skye Stephenson'
 google_analytics: "G-SMLEKTRM17" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
