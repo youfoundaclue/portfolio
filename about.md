@@ -3,7 +3,6 @@ layout: inner
 title: About
 permalink: /about/
 ---
-
 Skye Stephenson is a music producer, songwriter and creative from Cornwall, England, currently based in Buckinghamshire. 
 They graduated from the University of Kent in 2021 with an Upper Second Class Honours.
 

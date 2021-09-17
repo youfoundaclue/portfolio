@@ -3,8 +3,8 @@ layout: inner
 position: right
 title: 'Stream Songs'
 date: 2021-01-15 
-categories: music
-tags: original music 
+categories: 
+tags: 
 featured_image: '/img/posts/streamsongs.png'
 project_link: 'https://youfoundaclue.bandcamp.com/album/stream-songs-vol-1'
 button_icon: 'github'
