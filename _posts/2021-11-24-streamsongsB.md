@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'songs from the stream (vol 1.5)'
 date: 2021-09-08
 categories: 
